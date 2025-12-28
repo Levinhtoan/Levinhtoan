@@ -16,7 +16,7 @@ I enjoy building practical projects, from data collection and model training to 
 - **Programming:** Python, Java, SQL  
 - **Machine Learning:** TensorFlow, Keras, Scikit-learn  
 - **Computer Vision & NLP:** CNN, Transfer Learning, Text Processing  
-- **Web Development:** Django, Flask  
+- **Web Development:** Django, Flask, Vue.Js
 - **Tools:** Git, GitHub, Google Colab, VS Code  
 
 ---
