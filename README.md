@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Levinhtoan 👋
 
-<!--
-**Levinhtoan/Levinhtoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student  
+💡 Interested in Machine Learning, Data Analytics, and Web Development  
+🚀 Seeking Intern / Fresher opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am an IT student with a strong interest in Machine Learning and Data Analytics.  
+I enjoy building practical projects, from data collection and model training to deploying web applications.
+
+---
+
+## Technical Skills
+- **Programming:** Python, Java, SQL  
+- **Machine Learning:** TensorFlow, Keras, Scikit-learn  
+- **Computer Vision & NLP:** CNN, Transfer Learning, Text Processing  
+- **Web Development:** Django, Flask  
+- **Tools:** Git, GitHub, Google Colab, VS Code  
+
+---
+
+## Learning & Goals
+- Improve ML model performance  
+- Build end-to-end AI projects  
+- Apply AI to real-world problems  
+
+---
+
+📫 Contact  
+- GitHub: https://github.com/Levinhtoan
